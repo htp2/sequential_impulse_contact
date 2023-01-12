@@ -5,8 +5,7 @@ Python and cpp examples for finding impulses / forces using the sequential impul
 For plotting, the cpp version uses Boost, and also GNUplot
 
 ```bash
-sudo apt-get install gnuplot
-
+sudo apt-get install gnuplot libgnuplot-iostream-dev
 ```
 
 To build cpp version
