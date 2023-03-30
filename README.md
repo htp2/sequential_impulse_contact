@@ -24,3 +24,9 @@ The exectuable should be called ```sequential_impulse_contact_example``` and is 
 Plots from both C++ and Python versions showing sphere/sphere contact and sphere/plane contact respectively
 ![Screenshot from 2023-03-30 09-02-28](https://user-images.githubusercontent.com/17507145/228844672-fd8b61a3-a24c-416c-b4ff-8c28157de199.png)
 
+Relevant References:
+https://allenchou.net/2013/12/game-physics-resolution-contact-constraints/
+https://box2d.org/files/ErinCatto_SequentialImpulses_GDC2006.pdf
+http://www.mft-spirit.nl/files/articles/ImpulseSolverBrief.pdf
+https://danielchappuis.ch/download/ConstraintsDerivationRigidBody3D.pdf
+https://allenchou.net/2013/12/game-physics-constraints-sequential-impulse/
